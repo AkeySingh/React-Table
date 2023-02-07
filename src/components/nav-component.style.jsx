@@ -26,4 +26,3 @@ export const NavItem = styled.div`
     font-size: 16px;
   }
 `
-
